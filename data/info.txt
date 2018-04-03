@@ -1,0 +1,20 @@
+* The data is structured in the form {<q before projection> <q after projection>}.
+
+abb_samples_noJL.db
+	Two ABB (with base distance 900) grasping a 300 mm rod. 
+	No Joint limits and obstacles.
+ckc2d_4_samples_noJL.db
+	A 4 link planar ckc with base distance 1.5 and all links length 1. 
+	No Joint limits and obstacles.
+ckc2d_5_samples_noJL.db
+	A 4 link planar ckc with base distance 1.8 and all links length 1. 
+	No Joint limits and obstacles.
+ckc2d_10_samples_noJL.db
+	A 10 link planar ckc with base distance 3.2 and all links length 1. 
+ckc2d_20_samples_noJL.db
+	A 20 link planar ckc with base positions (0,0),(7,4) and all links length 1. 
+	No Joint limits and obstacles.
+baxter_samples_noJL.db
+	Baxter grasping a 500 mm rod. 
+	No Joint limits and obstacles.
+
